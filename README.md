@@ -1,2 +1,2 @@
-# android-nanodegree
-Code repo for Android Nanodegree program on Udacity
+# android-nanodegree-project0
+android-nanodegree-project0
