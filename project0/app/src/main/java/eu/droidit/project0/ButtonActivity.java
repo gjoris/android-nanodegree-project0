@@ -42,14 +42,4 @@ public class ButtonActivity extends AppCompatActivity {
             }
         }
     }
-
-    private class ButtonRepresentation {
-        private int id;
-        private int stringRef;
-
-        public ButtonRepresentation(int id, int stringRef) {
-            this.id = id;
-            this.stringRef = stringRef;
-        }
-    }
 }
