@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project0</string>
+    <string name="spotify_streamer_label">Spotify Streamer</string>
+    <string name="scores_label">Scores App</string>
+    <string name="library_label">Library app</string>
+    <string name="build_it_bigger_label">Build it bigger</string>
+    <string name="xyz_reader_label">XYZ reader</string>
+    <string name="captone_label">Capstone: my own app</string>
+</resources>
