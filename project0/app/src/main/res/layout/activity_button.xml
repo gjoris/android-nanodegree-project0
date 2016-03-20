@@ -20,49 +20,49 @@
             android:id="@+id/spotify_streamer_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_margin="5dp"
             android:background="#f57f17"
-            android:text="@string/spotify_streamer_label"
-            android:layout_margin="5dp" />
+            android:text="@string/spotify_streamer_label" />
 
         <Button
             android:id="@+id/scores_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_margin="5dp"
             android:background="#f57f17"
-            android:text="@string/scores_label"
-            android:layout_margin="5dp" />
+            android:text="@string/scores_label" />
 
         <Button
             android:id="@+id/library_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_margin="5dp"
             android:background="#f57f17"
-            android:text="@string/library_label"
-            android:layout_margin="5dp" />
+            android:text="@string/library_label" />
 
         <Button
             android:id="@+id/build_it_bigger_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_margin="5dp"
             android:background="#f57f17"
-            android:text="@string/build_it_bigger_label"
-            android:layout_margin="5dp" />
+            android:text="@string/build_it_bigger_label" />
 
         <Button
             android:id="@+id/xyz_reader_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_margin="5dp"
             android:background="#f57f17"
-            android:text="@string/xyz_reader_label"
-            android:layout_margin="5dp" />
+            android:text="@string/xyz_reader_label" />
 
         <Button
             android:id="@+id/my_own_app_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/captone_label"
             android:layout_margin="5dp"
-            android:background="#d50000" />
+            android:background="#d50000"
+            android:text="@string/captone_label" />
 
     </LinearLayout>
 

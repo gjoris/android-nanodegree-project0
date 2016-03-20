@@ -1,7 +1,7 @@
 package eu.droidit.project0;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 public class ButtonActivity extends AppCompatActivity {
 
